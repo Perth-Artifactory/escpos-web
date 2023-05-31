@@ -1,0 +1,9 @@
+{
+	"server": {
+		"address": "0.0.0.0",
+		"port": 8080,
+		"debug": true
+	},
+    "images": {"logo": "logo.png",
+               "logo_wide": "logo_wide.png"}
+}
