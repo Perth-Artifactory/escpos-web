@@ -1,5 +1,5 @@
 # escpos-web
-Python based HTTP api for interaction with ESCPOS based printers
+Python based HTTP api for interaction with ESCPOS based printers. Basically just a web api for [python-escpos](https://github.com/python-escpos/python-escpos)
 
 ## Setup
 
