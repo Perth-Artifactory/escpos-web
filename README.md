@@ -25,7 +25,7 @@ Command name: `text`
 | --------- | ---- | ----- | -------- |
 | `text`    | `str` | The text to print | Required |
 | `size`    | `int` | The size of the text | Optional, defaults to `2` |
-| `newline` | `boolean` | | Whether a newline should be printed at the end of the text | Optional, defaults to `true` |
+| `newline` | `boolean` | Whether a newline should be printed at the end of the text | Optional, defaults to `true` |
 
 ### Image
 
