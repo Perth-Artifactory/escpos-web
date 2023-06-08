@@ -1,3 +1,4 @@
 python-escpos
 pillow
 flask
+waitress
